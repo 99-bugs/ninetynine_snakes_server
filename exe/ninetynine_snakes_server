@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "ninetynine_snakes_server"
+include NinetynineSnakesServer
+
+server = Server.new
